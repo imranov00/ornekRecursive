@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ornek.iml" filepath="$PROJECT_DIR$/ornek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ornekRecursive.iml" filepath="$PROJECT_DIR$/ornekRecursive.iml" />
     </modules>
   </component>
 </project>
